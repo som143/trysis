@@ -1,0 +1,6 @@
+id,name,city,departmant,fathers_name,company,employee,state,salary,employee_id,team_name,team_size,project
+1,soumitri,bangalore,IT,"gopal charan",google,"soumitri ranjan panda",odisha,21000,so70098,team_101,30,development
+2,mahesh,cuttack,marketing,"sainath sahoo",facebook,"mahesh pattanaik",karnataka,30000,ka2345,team_sparten,24,testing
+3,surya,bhubaneswar,sales,"sasikant panda",amazone,"surya kanta",bihar,25000,mn1234,team_hyd,31,support
+4,ranjan,delhi,HR,"prafulla karan",flikart,"ranjan sahoo","west bengal",45000,nh9876,blr_team,27,analysis
+5,panda,kolkata,support,"bikash behera",snapdeal,"panda kumar",jharkhand,50000,ty5436,team_alpha,29,"application support"
